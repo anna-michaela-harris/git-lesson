@@ -1,2 +1,3 @@
 here is some text about git
-here is some more text about git 
+here is some less text about git 
+changes a word
